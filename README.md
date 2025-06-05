@@ -77,6 +77,8 @@ In the final part of the tutorial, we’ll explore reference-free evaluation met
 
 Here is the [example notebook](notebooks/LLMCourse_Tutorial_1_Intro_to_LLM_evals_methods.ipynb) to follow along.
 
+If you want to test it locally using Ollama, you can follo this [example notebook](notebooks/LLMCourse_Tutorial_1_Intro_to_LLM_evals_methods_ollama.ipynb)
+
 ![alt text](assets/lesson_3.png)
 
 Complete video: [watch the video](https://www.youtube.com/watch?v=-zoIqOpt2DA) [14 min].
